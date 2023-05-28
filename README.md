@@ -1,15 +1,15 @@
 # REIZ-TECH-HOMEWORK-ASSIGNMENT
-FIRST ASSIGNMENT FOR .NET DEVELOPER INTERN POSITION
-IN THIS REPOSITORY I SOLVED TWO QUESTIONS
+This repository contains my solutions for two questions as part of the first assignment for the .NET Developer Intern position.
 
-QUESTION NO-1:  Write console app. User should be able to input hours and minutes of the analogue clock. 
-Program must calculate lesser angle in degrees between hours arrow and minutes arrow and provide 
-output in the console window.
-QUESTION NO-2: 
-Imagine we have a hierarchical structure:
-CLASS branch{
-list<branch> branches;
-}
- After creating this object, we can add new Branch type objects into branches 
-variable. Doing so we increase object depth by one. Into created objects we can 
-add again new branches etc.
+# Question 1: Analog Clock Angle Calculation
+In this task, I have created a console application that allows the user to input the hours and minutes of an analog clock. The program calculates the lesser angle in degrees between the hour hand and the minute hand of the clock and displays the output in the console window.
+
+To run the program, execute the console application and follow the prompts to input the hours and minutes of the clock. The program will then calculate the angle and display the result.
+
+# Question 2: Hierarchical Structure
+In this task, I have implemented a hierarchical structure using the Branch class. The Branch class represents a node in the hierarchical structure and contains a list of child branches.
+
+The structure allows for the creation of objects of type Branch, which can be added to the branches list, effectively increasing the depth of the hierarchy. The newly created branches can further have their own child branches, and the process can continue indefinitely.
+
+To utilize this hierarchical structure, create an instance of the Branch class and add new branches to the branches list as desired. This allows for building a hierarchical structure with varying depths.
+
