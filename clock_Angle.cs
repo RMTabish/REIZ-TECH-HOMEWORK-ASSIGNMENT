@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace reiz_tech
-{
+
     class clock_Angle
     {
         static void Main(string[] args)
@@ -56,5 +55,5 @@ namespace reiz_tech
 
             Console.ReadLine();
         }
-    }
+    
 }
