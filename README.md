@@ -13,3 +13,6 @@ The structure allows for the creation of objects of type Branch, which can be ad
 
 To utilize this hierarchical structure, create an instance of the Branch class and add new branches to the branches list as desired. This allows for building a hierarchical structure with varying depths.
 
+# Approach to Answers
+The first qurestion i calculated the angle of each one i.e the hour and minute then found the greater angle and smaller one is subtrated from it.
+The second question was solved with a simple recursive approach for a bigger problem i could have used memoization tecnique but didnt thought it necessary here.
