@@ -64,6 +64,8 @@ using System.Threading.Tasks;
             int dp = height(root);
 
             Console.WriteLine("the depth of tree is " + dp);
+            
+        Console.WriteLine("PRESS ANY KEY TO END.....");
         Console.Read();
 
         }
